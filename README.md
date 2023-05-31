@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lourdes Higuera</h1>
-<h3 align="center">A passionate Data scientist Dive into the world of visionary professionals who unlock valuable insights, drive informed decision-making, and revolutionize industries through data-driven strategies.</h3>
+<h3 align="center">A passionate Data Scientist diving into the world of visionary professionals who unlock valuable insights, drive informed decision-making, and revolutionize industries through data-driven strategies.</h3>
 
 - 🌱 I’m currently learning **Data scientist**
 
